@@ -1,4 +1,4 @@
-Use nginx to host static files - the official nginx website
+Example of using Nginx to host static files (The official nginx website)
 
 
 # run nginx (to setup as a web server)
